@@ -45,6 +45,37 @@ td,th {
     text-align: center;
 }
 
+.links {
+    padding-top: 50px;
+    margin: 5px;
+    text-align: center;
+    
+}
+
+#colu {
+    padding: 3px;
+
+}
+
+.frase {
+    padding-top: 50px;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    border: 1px solid black;
+}
+
+iframe#tela {
+    width: 93vw;
+    height: 400px;
+    border: 3px solid black;
+    box-shadow: 1px 5px 50px red;
+    padding: 10px;
+    margin: 15px;
+}
 main {
     padding-top: 25px;
 }
